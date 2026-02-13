@@ -16,7 +16,7 @@ const vid_1 = "/16.mov";
 // import pic_19 from '../public/18.jpg';
 // import pic_24 from '../public/23.jpg';
 // import vc from '../public/vc.png';
-// import vc_1 from '../public/vc_1.png';
+// import wwwww from '../public/vc_1.png';
 
 
 const pic_2 = "/2.jpg";
@@ -28,7 +28,8 @@ const pic_14 = "/13.jpg";
 const pic_21 = "/19.jpg";
 const pic_22 = "/21.jpg";
 const pic_23 = "/22.jpg";
-
+const vc = "/vc.PNG";
+const vcc = "/vcc.PNG";
 
 
 
@@ -61,7 +62,7 @@ export default function LoveApp() {
     pic_23,
   ];
 
-  const memories = ["/vc.png", "/vc_1.png"];
+  const memories = [vc, vcc];
 
   const questions = [
     "Will you always keep smiling for me? 😊",
