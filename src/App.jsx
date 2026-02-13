@@ -450,7 +450,7 @@ export default function LoveApp() {
 
         {step === 6 && (
           <div>
-            <video controls="true" src={video} />
+            <video controls="true" src='https://res.cloudinary.com/dvjdqwjqs/video/upload/v1771006890/Img_4596_qajpin.mp4' />
           </div>
         )}
       </div>}
