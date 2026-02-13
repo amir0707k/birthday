@@ -15,8 +15,8 @@ import pic_16 from '../public/15.jpg';
 import pic_18 from '../public/17.jpg';
 import pic_19 from '../public/18.jpg';
 import pic_24 from '../public/23.jpg';
-import vc from '../public/vc.png';
-import vc_1 from '../public/vc_1.png';
+// import vc from '../public/vc.png';
+// import vc_1 from '../public/vc_1.png';
 
 
 import pic_2 from '../public/2.jpg';
@@ -61,7 +61,8 @@ export default function LoveApp() {
     pic_23,
   ];
 
-  const memories = [vc, vc_1]
+  const memories = ["/vc.png", "/vc_1.png"];
+
   const questions = [
     "Will you always keep smiling for me? 😊",
     "Will you be my Valentine? ❤️",
