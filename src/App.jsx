@@ -1,33 +1,33 @@
 import { useState, useEffect, useRef } from "react";
 import music from './music.mp3'
-import video from '../public/Img 4596.mp4'
 
 //unused imports
-import vid from '../public/1.mov';
-import vid_1 from '../public/16.mov';
-import pic_5 from '../public/5.jpg';
-import pic_6 from '../public/6.jpg';
-import pic_7 from '../public/7.jpg';
-import pic_11 from '../public/11.jpg';
-import pic_13 from '../public/12.jpg';
-import pic_15 from '../public/14.jpg';
-import pic_16 from '../public/15.jpg';
-import pic_18 from '../public/17.jpg';
-import pic_19 from '../public/18.jpg';
-import pic_24 from '../public/23.jpg';
+const vid = "/1.mov";
+const vid_1 = "/16.mov";
+
+// import pic_5 from '../public/5.jpg';
+// import pic_6 from '../public/6.jpg';
+// import pic_7 from '../public/7.jpg';
+// import pic_11 from '../public/11.jpg';
+// import pic_13 from '../public/12.jpg';
+// import pic_15 from '../public/14.jpg';
+// import pic_16 from '../public/15.jpg';
+// import pic_18 from '../public/17.jpg';
+// import pic_19 from '../public/18.jpg';
+// import pic_24 from '../public/23.jpg';
 // import vc from '../public/vc.png';
 // import vc_1 from '../public/vc_1.png';
 
 
-import pic_2 from '../public/2.jpg';
-import pic_3 from '../public/3.jpg';
-import pic_4 from '../public/4.jpg';
-import pic_8 from '../public/8.jpg';
-import pic_9 from '../public/9.jpg';
-import pic_14 from '../public/13.jpg';
-import pic_21 from '../public/19.jpg';
-import pic_22 from '../public/21.jpg';
-import pic_23 from '../public/22.jpg';
+const pic_2 = "/2.jpg";
+const pic_3 = "/3.jpg";
+const pic_4 = "/4.jpg";
+const pic_8 = "/8.jpg";
+const pic_9 = "/9.jpg";
+const pic_14 = "/13.jpg";
+const pic_21 = "/19.jpg";
+const pic_22 = "/21.jpg";
+const pic_23 = "/22.jpg";
 
 
 
