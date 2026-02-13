@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import music from './music.mp3'
-import video from '../public/IMG_4596.MOV'
+import video from '../public/Img 4596.mp4'
 
 //unused imports
 import vid from '../public/1.mov';
